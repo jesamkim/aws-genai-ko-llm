@@ -1,1 +1,0 @@
-Amazon SageMaker Jumpstart를 활용한 한글 지원 LLM 워크샵은 현재 작업 중 입니다.
